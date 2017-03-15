@@ -1,5 +1,5 @@
 {
-  "name": "bloomfilter",
+  "name": "bloomfilter-papandreou",
   "version": "0.0.16",
   "description": "Fast bloom filter in JavaScript.",
   "keywords": [
